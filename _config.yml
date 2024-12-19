@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+title                    : "Harena's Blog"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Harena"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://harena.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Harena Qin"
+  pronouns         : "he/him"  
+  bio              : "1337"
+  location         : "Chengdu, Sichuan"
+  employer         : "Southwest Minzu University"
+  uri              : "47.109.159.122:5244"
+  email            : "Harena0406@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
